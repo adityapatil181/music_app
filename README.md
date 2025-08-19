@@ -1,16 +1,26 @@
-# music_app
+# 🎵 Flutter Music App
 
-A new Flutter project.
+A modern music player app built with **Flutter** that lets users play local songs, manage playlists, and fetch lyrics automatically.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🎶 **Play Local Songs** – Scan and play songs stored on your device.  
+- ⏯ **Playback Controls** – Play, pause, resume, seek, next, previous.  
+- 🔀 **Shuffle & Repeat** – Flexible playback options.  
+- 🎤 **Lyrics Fetching** – Automatically fetch song lyrics via API.  
+- 📀 **Album Art Support** – Display album art alongside the track.  
+- 🔒 **Permission Handling** – Handles runtime permissions for storage/audio access.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **State Management:** [GetX](https://pub.dev/packages/get)  
+- **Audio Playback:** [just_audio](https://pub.dev/packages/just_audio)  
+- **Song Querying:** [on_audio_query](https://pub.dev/packages/on_audio_query)  
+- **Permissions:** [permission_handler](https://pub.dev/packages/permission_handler)  
+- **Lyrics API:** AudD API / (alternatively Genius API, Musixmatch, or Lyrics.ovh)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
