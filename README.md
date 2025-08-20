@@ -24,3 +24,8 @@ A modern music player app built with **Flutter** that lets users play local song
 
 ---
 
+## To use App
+- ** Single tap to play the music and double tap to navigate to player screen
+- ** Add to fav functionality given
+- ** Theme chnage option is available 
+
